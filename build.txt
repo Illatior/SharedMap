@@ -1,0 +1,3 @@
+displayName = Shared Map
+author = Illatior
+version = 0.1
