@@ -1,3 +1,6 @@
 displayName = Shared Map
 author = Illatior
 version = 0.1
+includeSource = true
+homepage = https://github.com/Illatior/SharedMap
+languageVersion = 6
